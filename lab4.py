@@ -1,5 +1,10 @@
+def good_function():
+    return "Hi"
+
+
 def bad_function():
     return None
+
 
 def main():
     print("Hello, world!")
