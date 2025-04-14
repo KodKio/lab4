@@ -5,8 +5,3 @@
 Запуск:
 
 * `python lab4.py`
-
-Новые функции:
-
-* `good_function()` возвращает Hi
-* `bad_function()` возвращает 0
