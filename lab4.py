@@ -1,4 +1,4 @@
-def bad_function:
+def bad_function():
     return None
 
 def main():
