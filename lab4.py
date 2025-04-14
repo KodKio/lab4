@@ -1,3 +1,6 @@
+def bad_function():
+    return 1
+
 def main():
     print("Hello, world!")
 
